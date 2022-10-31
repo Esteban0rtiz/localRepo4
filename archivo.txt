@@ -1,6 +1,7 @@
 hola mundo 
 
 soy alumno del ITSQMET
+estudio desarrollo de software 
 3 semestre 
 
-matutino.
+matutino.d
